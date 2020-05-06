@@ -1,15 +1,15 @@
-#Software-as-a-Service (SaaS): 
+# Software-as-a-Service (SaaS): 
 Instead of users installing an application on their device, SaaS applications are hosted on cloud servers, and users access them over the Internet.
 SaaS is like renting a house: the landlord maintains the house, but the tenant mostly gets to use it as if they owned it.
 Examples of SaaS applications include Salesforce, MailChimp, and Slack.
 
-#Platform-as-a-Service (PaaS): In this model, companies don't pay for hosted applications; instead they pay for the things they need
+# Platform-as-a-Service (PaaS): In this model, companies don't pay for hosted applications; instead they pay for the things they need
 to build their own applications.
 PaaS vendors offer everything necessary for building an application, including development tools, infrastructure, and 
 operating systems, over the Internet. PaaS can be compared to renting all the tools and equipment necessary for building a 
 house, instead of renting the house itself. PaaS examples include Heroku and Microsoft Azure.
 
-#Infrastructure-as-a-Service (IaaS): In this model, a company rents the servers and storage they need from a cloud provider.
+# Infrastructure-as-a-Service (IaaS): In this model, a company rents the servers and storage they need from a cloud provider.
 They then use that cloud infrastructure to build their applications. IaaS is like a company leasing a plot of land on which
 they can build whatever they want – but they need to provide their own building equipment and materials. IaaS providers 
 include DigitalOcean, Google Compute Engine, and OpenStack.
@@ -17,7 +17,7 @@ include DigitalOcean, Google Compute Engine, and OpenStack.
 Formerly, SaaS, PaaS, and IaaS were the three main models of cloud computing, and essentially all cloud services fit into one 
 of these categories. However, in recent years a fourth model has emerged:
 
-#Function-as-a-Service (FaaS): FaaS, also known as serverless computing, breaks cloud applications down into even smaller 
+# Function-as-a-Service (FaaS): FaaS, also known as serverless computing, breaks cloud applications down into even smaller 
 components that only run when they're needed. Imagine if it were possible to rent a house one little bit at a time: for
 instance, the tenant only pays for the dining room at dinner time, the bedroom while they're sleeping, the living room 
 while they're watching TV, and when they aren't using those rooms, they don't have to pay rent on them.
