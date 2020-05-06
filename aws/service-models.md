@@ -30,5 +30,4 @@ Also, serverless functions scale up, or duplicate, as more people use the applic
 could expand on demand when more people come over for dinner! Learn more about serverless computing (FaaS).
 
 
-![services](https://www.cloudflare.com/img/learning/serverless/glossary/platform-as-a-service-paas/saas-paas-iaas-diagram.png)
-
+![service](https://www.cloudflare.com/img/learning/serverless/glossary/platform-as-a-service-paas/saas-paas-iaas-diagram.svg)
