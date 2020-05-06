@@ -27,5 +27,8 @@ called "serverless" because they don't run on dedicated machines, and because th
 don't have to manage any servers.
 
 Also, serverless functions scale up, or duplicate, as more people use the application – imagine if the tenant's dining room 
-[services](https://www.cloudflare.com/img/learning/serverless/glossary/platform-as-a-service-paas/saas-paas-iaas-diagram.svg)
 could expand on demand when more people come over for dinner! Learn more about serverless computing (FaaS).
+
+
+![services](https://www.cloudflare.com/img/learning/serverless/glossary/platform-as-a-service-paas/saas-paas-iaas-diagram.png)
+
