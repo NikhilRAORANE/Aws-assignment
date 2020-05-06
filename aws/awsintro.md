@@ -2,3 +2,5 @@
 "The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers.
 Cloud servers are located in data centers all over the world. By using cloud computing, users and companies don't have to 
 manage physical servers themselves or run software applications on their own machines.
+
+![adsfsafdsg](https://www.cloudflare.com/resources/images/slt3lc6tev37/3YT0gya2bkUeuMrnGxhjAZ/4146c20c214cf001c74c0868ddfb9503/what-is-the-cloud.png)
